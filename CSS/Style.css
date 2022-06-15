@@ -11,14 +11,35 @@ body
 
 
 }
+
+#cabecera
+
+{
+    background: #E88F00;
+    color: white;
+    box-shadow: 3px 3px 14px -8px rgba(107,104,107,0.86);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
+
+#cabecera #tagline
+
+{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container
 
 {
-    width: 70%
+    width: 70%;
     padding: 1em;
-    text-align: :left;
-    border: 2px solid #FFAD1D;
-    margin: 0;
+    text-align: center;
+    border: 1px solid #FFAD1D;
+    margin: 0 auto;
 
 
 }
@@ -27,4 +48,10 @@ body
 
 {
     font-size: 21px;
+}
+
+#post
+
+{
+    padding: 1em;
 }
