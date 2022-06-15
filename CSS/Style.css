@@ -2,9 +2,13 @@ body
 
 {
 
+<<<<<<< HEAD
     color: rgb(1, 64, 116);
+=======
+    color: rgb(38, 36, 39);
+>>>>>>> cabecera
     text-align: center;
-    font-family: Verdana;
+    font-family: montserrat;
     font-size: 16px;
     margin: 0;
     padding: 0;
