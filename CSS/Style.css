@@ -2,8 +2,8 @@ body
 
 {
 
-    background: #ffdecb;
-    color: rgb(38, 36, 39);
+    background: #fff6f0;
+    color: rgb(82, 33, 107);
     text-align: center;
     font-family: montserrat;
     font-size: 16px;
@@ -16,8 +16,8 @@ body
 #cabecera
 
 {
-    background: url("../imagenes/Pacto.png") no repeat center center;
-    color: white;
+    background: #ffad1d;
+    color: rgb(255, 255, 255);
     box-shadow: 3px 3px 14px -8px rgba(107,104,107,0.86);
     font-weight: bold;
     margin: 0;
@@ -25,11 +25,15 @@ body
 
 }
 
-#cabecera #logo
- 
+#logo
 { 
-
+  
+  Width: 10px;
+  vertical-align: middle;
+    
 }
+ 
+ 
 
 #cabecera #tagline
 
@@ -45,7 +49,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 1px solid #FFAD1D;
+    border: 1px solid #ffad1d;
     margin: 0 auto;
 
 
