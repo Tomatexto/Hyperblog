@@ -2,6 +2,7 @@ body
 
 {
 
+    background: #ffdecb;
     color: rgb(38, 36, 39);
     text-align: center;
     font-family: montserrat;
@@ -15,14 +16,20 @@ body
 #cabecera
 
 {
-    background: #E88F00;
+    background: url("../imagenes/Pacto.png") no repeat center center;
     color: white;
     box-shadow: 3px 3px 14px -8px rgba(107,104,107,0.86);
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
 
-}git lo
+}
+
+#cabecera #logo
+ 
+{ 
+
+}
 
 #cabecera #tagline
 
